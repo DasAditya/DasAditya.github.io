@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'But his doom Reserved him to more wrath ; for now the thought Both of lost happiness and lasting pain Torments him',
   'example3':
-      'When the Hurley - burley s done , When the Battaile s lost , and wonne',
+      'When shall we three meet againe ?',
    'example4' : 
       'The family of Dashwood had long been settled in Sussex',
 };

@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'But his doom Reserved him to more wrath ; for now the thought Both of lost happiness and lasting pain Torments him',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'When the Hurley - burley ' s done , When the Battaile ' s lost , and wonne',
    'example4' : 
-      'Test',
+      'The family of Dashwood had long been settled in Sussex',
 };
 
 function status(statusText) {
